@@ -1,0 +1,9 @@
+home team city,home team name,home team probability,away team city,away team name,away team probability,tie probabailty,winner
+New England,Patriots,74.6,Kansas City,Chiefs,25.2,2.0,Patriots,
+Buffalo,Bills,75.2,New York,Jets,24.6,0.19999999999998863,Bills,
+Chicago,Bears,35.9,Atlanta,Falcons,63.8,0.30000000000001137,Falcons,
+Cincinnati,Bengals,58.5,Baltimore,Ravens,41.2,0.29999999999999716,Bengals,
+Cleveland,Browns,25.9,Pittsburgh,Steelers,73.9,0.19999999999998863,Steelers,
+Detroit,Lions,59.1,Arizona,Cardinals,40.6,0.29999999999999716,Lions,
+Houston,Texans,70.2,Jacksonville,Jaguars,29.6,0.19999999999998863,Texans,
+Tennessee,Titans,53.6,Oakland,Raiders,46.0,0.4000000000000057,Titans,
