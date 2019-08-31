@@ -1,0 +1,14 @@
+1. 
+I use Pandas dataframe to store the data, so it is quite easy to manipulate the data, visualize the data and do exploratory data analysis.
+
+2.
+
+3.
+The data is stored locally on a csv file, called 'Ice and Fire.csv'
+
+4.
+I would add a new coding block begining with 'if sys.argv[1] == 'new_source':
+so that there would be a new option when enting the command line and the new data source would be loaded in to the existing dataset.
+
+5.
+I would add a new column in the dataframe, so that the dataframe can store this new information.

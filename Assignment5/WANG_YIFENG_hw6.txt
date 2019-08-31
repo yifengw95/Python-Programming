@@ -1,0 +1,15 @@
+1. 
+I use Pandas dataframe to store the data, so it is quite easy to manipulate the data, visualize the data and do exploratory data analysis.
+
+2.
+Since all the data is stored in a csv file rather than a SQLite, when the dataset is getting really larger, it will takes more time to do some data operation.
+
+3.
+I store the dataset locally on a csv file, called 'Ice and Fire'
+
+4.
+I would add a new coding block beginning with 'if sys.argv[1] == 'new_source':'
+So there would be a more option when entering the command window, which allows the new dataset going in.
+
+5.
+I would add a new column in the existing dataframe, so that the new information or attribute can merge into the original dataset. 

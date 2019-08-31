@@ -1,0 +1,26 @@
+1. What did you set out to study? (i.e. what was the point of your project? This should be
+close to your HW4 assignment, but if you switched gears or changed things, note it
+here.) 
+
+I have changed the topics, because the website I used before on HW4 will refuse my computer access if I try to catch the data so many times.
+
+You can find all the information about 'The Ice and Fire' by this file.
+like where Jon Snow was born?
+How many actors and actresses are in this book?
+How many aliases does Jon Snow get?
+
+2.What did you discover/what were your conclusions (i.e. what were your findings? Were
+your original assumptions confirmed, etc.?) 
+
+Jon Snow got 8 aliases, including "Lord Snow", "Ned Stark's Bastard","The Snow of Winterfell", "The Crow-Come-Over", "The 998th Lord Commander of the Night's Watch", "The Bastard of Winterfell", "The Black Bastard of the Wall", "Lord Crow".
+
+There is 1155 Male characters and 344 Female characters.  
+
+3.What difficulties did you have in completing the project? 
+Not good at manipulating data on python data frame.
+
+4.What skills did you wish you had while you were doing the project? 
+I wish I could be more familiar with python data frame structure, so that I will more interesting things about 'the Ice and Fire'.
+
+5.What would you do “next” to expand or augment the project? 
+I could draw some interesting pictures for the statistics information I found in this dataset.
